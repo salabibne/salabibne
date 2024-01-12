@@ -2,7 +2,7 @@
 #### Front-End Developer
 I have a genuine passion for logical problem-solving, and I enjoy crafting solutions. To compete with modern fields, I'm always eager to learn and stay updated on the latest cutting-edge technologies. Furthermore, I contribute to open-source projects. Seeking new opportunities and contributing to innovative projects.
 
-Skills:  HTML || CSS || JavaScript || React || Git & GitHub
+Skills:  HTML || CSS || JavaScript || React || Git & GitHub || Tailwind Css || Firebase Authentication
 
 
 
